@@ -37,7 +37,7 @@ La salida es una matriz (S) de n x m (filas y columnas) donde n representa las v
 
 ## Estructura del Código
 
-El código principal del proyecto se encuentra en el archivo `cod.py`. A continuación, se describen las funciones principales:
+El código principal del proyecto se encuentra en el archivo `interfaz.py`. A continuación, se describen las funciones principales:
 
 1. **leer_matrices_desde_archivo(archivo):** Lee las matrices de entrada desde un archivo de texto.
 2. **escribir_matriz_en_archivo(archivo, matriz):** Escribe una matriz en un archivo de texto.
@@ -50,7 +50,7 @@ El código principal del proyecto se encuentra en el archivo `cod.py`. A continu
 
 ## Ejecución del Proyecto
 
-Para ejecutar el proyecto, asegúrese de que los archivos de entrada estén en el mismo directorio que el código. Luego, simplemente ejecute el archivo `codigo.txt`:
+Para ejecutar el proyecto, asegúrese de que los archivos de entrada estén en el mismo directorio que el código. Luego, simplemente ejecute el archivo `interfaz.py`:
 
 
 
@@ -64,4 +64,4 @@ Para ejecutar el proyecto, asegúrese de que los archivos de entrada estén en e
 
 
 ```bash
-python codigo.txt
+python interfaz.py
