@@ -52,8 +52,7 @@ El código principal del proyecto se encuentra en el archivo `cod.py`. A continu
 
 Para ejecutar el proyecto, asegúrese de que los archivos de entrada estén en el mismo directorio que el código. Luego, simplemente ejecute el archivo `codigo.txt`:
 
-```bash
-python codigo.txt
+
 
 ## Interfaz inicio
 ![image](https://github.com/jessvilla1975/Villas-Deportivas/assets/114515509/b5f8a037-58ce-493a-a7d6-d2d7d67edcd1)
@@ -64,4 +63,5 @@ python codigo.txt
 
 
 
-
+```bash
+python codigo.txt
